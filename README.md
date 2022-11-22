@@ -19,7 +19,12 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKangSeongKwan&count_bg=%23F1A91F&title_bg=%233687E5&icon=&icon_color=%23BCDCF3&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### Team Project
-[Open Source Team Project](https://github.com/KangSeongKwan/TeamGithubProfile)
+
+|프로젝트명|사용 기술|깃 허브 주소|
+|---|---|---|
+|졸업작품(MASS)|C#, Unity|https://github.com/KangSeongKwan/GraduateProject|
+|헨젤런|C#, Unity|https://github.com/KangSeongKwan/HenzelRun|
+|오픈소스 팀 프로젝트|Github|https://github.com/KANGSINCHAE/KANGSINCHAE|
 
 ### Git-Hub Stats
 ![SeongKwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KangSeongKwan&theme=chartreuse-dark&show_icons=true)
