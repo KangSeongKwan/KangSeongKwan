@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" width=90px, height=30px/> 
 </p>
 
-### 접속자 수
+### 깃허브 조회수
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKangSeongKwan&count_bg=%23F1A91F&title_bg=%233687E5&icon=&icon_color=%23BCDCF3&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### Team Project
@@ -24,7 +24,8 @@
 |---|---|---|
 |졸업작품(MASS)|C#, Unity|https://github.com/KangSeongKwan/GraduateProject|
 |헨젤런|C#, Unity|https://github.com/KangSeongKwan/HenzelRun|
-|오픈소스 팀 프로젝트|Github|https://github.com/KANGSINCHAE/KANGSINCHAE|
+|오픈소스 팀 프로젝트|Github, Markdown|https://github.com/KANGSINCHAE/KANGSINCHAE|
+|깃허브 관련 Cheat sheet|Github, Markdown|https://github.com/KangSeongKwan/GitCheatSheet|
 
 ### Git-Hub Stats
 ![SeongKwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KangSeongKwan&theme=chartreuse-dark&show_icons=true)
