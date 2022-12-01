@@ -28,7 +28,7 @@
 |깃허브 관련 Cheat sheet|Github, Markdown|https://github.com/KangSeongKwan/GitCheatSheet|
 |파이썬 팀 프로젝트|Python|https://github.com/KangSeongKwan/PythonProject/tree/main/TurtleRace|
 
-### 👨‍🦱Personal Project
+### 👨Personal Project
 |프로젝트명|사용 기술|깃 허브 주소|
 |---|---|---|
 |빌보드 차트 데이터 분석|Python, Pandas, Plotly, Matplotlib|https://github.com/KangSeongKwan/PythonProject/tree/main/DataAnalyze|
