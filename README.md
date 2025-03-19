@@ -21,7 +21,7 @@
 ### **도구 및 플랫폼**
 | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-007396?style=flat-square&logo=AmazonAWS&logoColor=white) |
 |---|---|---|
-| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white) |
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white) |
 
 ---
 
