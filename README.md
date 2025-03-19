@@ -28,8 +28,6 @@
 ## 🏆 GitHub 통계
 ![SeongKwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KangSeongKwan&theme=chartreuse-dark&show_icons=true)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=KangSeongKwan&theme=chartreuse-dark)
-
 ### **주로 사용한 언어**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangSeongKwan&langs_count=5&theme=chartreuse-dark)](https://github.com/KangSeongKwan)
 
