@@ -46,7 +46,7 @@
 ### 🛠 개인 프로젝트
 | 프로젝트명 | 설명 | 사용 기술 | 깃허브 |
 |---|---|---|---|
-| ☁ **AWS 기반 인프라 자동화** | Terraform과 AWS 서비스를 활용한 클라우드 인프라 구축 | AWS, Terraform | [링크](https://github.com/Flash-Box/FlashBox) |
+| ☁ **AWS 기반 인프라 자동화** | AWS 서비스를 활용한 클라우드 인프라 구축 | AWS | [링크](https://github.com/Flash-Box/FlashBox) |
 | 📊 **빌보드 차트 데이터 분석** | 데이터 분석 및 시각화 프로젝트 | Python, Pandas, Plotly | [링크](https://github.com/KangSeongKwan/PythonProject/tree/main/DataAnalyze) |
 
 ---
