@@ -14,22 +14,21 @@
 ## 🚀 기술 스택
 
 ### **프로그래밍 언어 및 프레임워크**
-| ![C#](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=CSharp&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) | ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white) |
-|---|---|---|
-| ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) | ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=Matplotlib&logoColor=white) |
+| ![C#](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=CSharp&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) | ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white) | ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) | ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=Matplotlib&logoColor=white) |
 
 ### **도구 및 플랫폼**
-| ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-007396?style=flat-square&logo=AmazonAWS&logoColor=white) |
-|---|---|---|
-| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white) |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-007396?style=flat-square&logo=AmazonAWS&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white) |
 
 ---
 
 ## 🏆 GitHub 통계
-![SeongKwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KangSeongKwan&theme=chartreuse-dark&show_icons=true)
 
-### **주로 사용한 언어**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangSeongKwan&langs_count=5&theme=chartreuse-dark)](https://github.com/KangSeongKwan)
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=KangSeongKwan&theme=chartreuse-dark&show_icons=true" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KangSeongKwan&langs_count=5&theme=chartreuse-dark" /></td>
+  </tr>
+</table>
 
 ---
 
