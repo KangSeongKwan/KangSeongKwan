@@ -14,10 +14,10 @@
 ## 🚀 기술 스택
 
 ### **프로그래밍 언어 및 프레임워크**
-| ![C#](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=CSharp&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) | ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white) | ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) | ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=Matplotlib&logoColor=white) |
+| ![C#](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=CSharp&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) | ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) | ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) | ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=Matplotlib&logoColor=white) |
 
 ### **도구 및 플랫폼**
-| ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-007396?style=flat-square&logo=AmazonAWS&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white) |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-007396?style=flat-square&logo=AmazonAWS&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white) |
 
 ---
 
@@ -40,6 +40,7 @@
 | 🎓 **졸업작품 (MASS)** | 2D 기반 시뮬레이션 게임 | C#, Unity, Git | 2022.09.01 ~ 2022.12.15 | [링크](https://github.com/KangSeongKwan/GraduateProject) |
 | 🏃 **헨젤런** | 2D 러닝 게임 | C#, Unity | 2022.05.01 ~ 2022.06.20 | [링크](https://github.com/KangSeongKwan/HenzelRun) |
 | 📝 **오픈소스 팀 프로젝트** | 깃허브 협업 실습 | GitHub, Markdown | 2022.11.01 ~ 2022.11.23 | [링크](https://github.com/KANGSINCHAE/KANGSINCHAE) |
+
 
 ### 🛠 개인 프로젝트
 | 프로젝트명 | 설명 | 사용 기술 | 진행 기간 | 깃허브 |
