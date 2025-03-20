@@ -35,16 +35,16 @@
 
 ## 📌 주요 프로젝트
 ### 🎮 팀 프로젝트
-| 프로젝트명 | 설명 | 사용 기술 | 깃허브 |
-|---|---|---|---|
-| 🎓 **졸업작품 (MASS)** | VR 기반 시뮬레이션 게임 | C#, Unity | [링크](https://github.com/KangSeongKwan/GraduateProject) |
-| 🏃 **헨젤런** | 2D 러닝 게임 | C#, Unity | [링크](https://github.com/KangSeongKwan/HenzelRun) |
-| 📝 **오픈소스 팀 프로젝트** | 깃허브 협업 실습 | GitHub, Markdown | [링크](https://github.com/KANGSINCHAE/KANGSINCHAE) |
+| 프로젝트명 | 설명 | 사용 기술 | 진행 기간 | 깃허브 |
+|---|---|---|---|---|
+| ☁ **AWS 기반 인프라 자동화** | AWS 서비스를 활용한 클라우드 인프라 구축 | AWS, ArgoCD, Git, Java | 2025.02.27 ~ 2025.03.25 | [링크](https://github.com/Flash-Box/FlashBox) |
+| 🎓 **졸업작품 (MASS)** | 2D 기반 시뮬레이션 게임 | C#, Unity, Git | 2022.09.01 ~ 2022.12.15 | [링크](https://github.com/KangSeongKwan/GraduateProject) |
+| 🏃 **헨젤런** | 2D 러닝 게임 | C#, Unity | 2022.05.01 ~ 2022.06.20 | [링크](https://github.com/KangSeongKwan/HenzelRun) |
+| 📝 **오픈소스 팀 프로젝트** | 깃허브 협업 실습 | 2022.0 | GitHub, Markdown | [링크](https://github.com/KANGSINCHAE/KANGSINCHAE) |
 
 ### 🛠 개인 프로젝트
 | 프로젝트명 | 설명 | 사용 기술 | 깃허브 |
 |---|---|---|---|
-| ☁ **AWS 기반 인프라 자동화** | AWS 서비스를 활용한 클라우드 인프라 구축 | AWS | [링크](https://github.com/Flash-Box/FlashBox) |
 | 📊 **빌보드 차트 데이터 분석** | 데이터 분석 및 시각화 프로젝트 | Python, Pandas, Plotly | [링크](https://github.com/KangSeongKwan/PythonProject/tree/main/DataAnalyze) |
 
 ---
